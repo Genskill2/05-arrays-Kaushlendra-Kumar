@@ -79,5 +79,6 @@ int min=arr[0];
      max=cur;
      mode=arr[i];
      }
-     }return mode;
+     }
+    return mode;
   }
